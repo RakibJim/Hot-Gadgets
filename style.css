@@ -102,6 +102,11 @@ footer{
 .sub{
     margin-left: 60px;
 }
+.container-categories{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+}
 .pale-order img {
     width: 100%;
 }
